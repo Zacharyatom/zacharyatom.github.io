@@ -32,7 +32,12 @@
   }
   
 
-  h1, h2 {
+  h1 {
+    color: #1a1a1a;
+    margin-bottom: 10px;
+  }
+  
+  h2 {
     color: #005a99;
     margin-bottom: 10px;
   }
